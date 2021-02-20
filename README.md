@@ -5,7 +5,7 @@
 1. [**Pytorch Tutorial**](https://github.com/nayakt/Neural-POS-Tagger)
 2. [**Notebook for Word-embeddings analogy:**](https://colab.research.google.com/drive/1DxC5AnIFuu9Maan_D23yoE6sW4Ez2Uhw?usp=sharing#scrollTo=yr64uvq1E3E-)
 3. [**Notebook for Bias in word-embeddings:**](https://colab.research.google.com/drive/11PyFecG4gaWBrP1FB6nHUROktwUSUCbI?usp=sharing#scrollTo=SkOPpPRMEp1M)
-4. 
+4. [**NLTK Tutorial**](https://colab.research.google.com/drive/1OMMp7vGMhqDbkJMMefrX22yenL0tom_0?usp=sharing)
 
 ## Important Points to Consider:
 
