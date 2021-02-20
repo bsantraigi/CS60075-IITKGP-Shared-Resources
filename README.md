@@ -1,5 +1,12 @@
 # CS60075(Spring 2021) Shared Tasks
 
+## Tutorials given in Course
+
+1. [**Pytorch Tutorial**](https://github.com/nayakt/Neural-POS-Tagger)
+2. [**Notebook for Word-embeddings analogy:**](https://colab.research.google.com/drive/1DxC5AnIFuu9Maan_D23yoE6sW4Ez2Uhw?usp=sharing#scrollTo=yr64uvq1E3E-)
+3. [**Notebook for Bias in word-embeddings:**](https://colab.research.google.com/drive/11PyFecG4gaWBrP1FB6nHUROktwUSUCbI?usp=sharing#scrollTo=SkOPpPRMEp1M)
+4. 
+
 ## Important Points to Consider:
 
 * **Ideal team size**: 4-5 members
