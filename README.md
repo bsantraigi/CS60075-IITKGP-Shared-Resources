@@ -20,18 +20,23 @@
 
 ## Deliverables
 
-1. A project report of upto 4-page with following sections in the same order. Use either latex or docx format from ACL.
+1. A project report of 3-5 page (*NO MORE THAN 5 PAGES ALLOWED*) with following sections in the same order. Use either latex or docx format from ACL.     
+    * **Templates**: Docx and Latex templates can be downloaded [here](http://acl2020.org/downloads/acl2020-templates.zip). You can edit using [latex template on overleaf](https://www.overleaf.com/latex/templates/acl-2020-proceedings-template/zsrkcwjptpcd) also.
     * Title
     * Subtask ID + Group Details (Names, Roll Numbers, Group Name)
-    * Introduction
-    * Task Details
+    * Individual Contributions of Students (Must be explicitly mentioned for each student)
     * Approach / Model Architectures
     * Experiments
     * Results / Discussions
-1. A public GitHub repo for the submitted code. *Codes will be checked for plagiarism.*
+    * Screenshots of codalab submission page (Participate Tab -> Submit-View Results). Include all phases for which you have submitted (dev/eval + test).
+    
+    ![image](https://user-images.githubusercontent.com/6783945/112109838-149d9300-8bd8-11eb-974a-8882f041d7ee.png)
+
+1. A **PRIVATE** GitHub repo for the submitted code. *Codes will be checked for plagiarism.*
     * Repo Name Format: `CS60075-Team-X-Task-Y`
     * Example: `CS60075-Team-3-Task-11`
-1. A brief presentation video of upto 10 mins explaining the task, approach and results.
+    * Add the common TA account as colaborator. *[how-to](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository)*
+1. A brief presentation video of upto 15 mins explaining the task, approach and results.
 
 ## Useful Resources for the Tasks
 
