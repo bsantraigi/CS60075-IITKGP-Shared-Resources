@@ -24,13 +24,15 @@
     * **Templates**: Docx and Latex templates can be downloaded [here](http://acl2020.org/downloads/acl2020-templates.zip). You can edit using [latex template on overleaf](https://www.overleaf.com/latex/templates/acl-2020-proceedings-template/zsrkcwjptpcd) also.
     * Title
     * Subtask ID + Group Details (Names, Roll Numbers, Group Name)
+    * Group ID
+      * Codalab Team ID, if different from Group ID
     * Individual Contributions of Students (Must be explicitly mentioned for each student)
     * Approach / Model Architectures
     * Experiments
     * Results / Discussions
     * Screenshots of codalab submission page (Participate Tab -> Submit-View Results). Include all phases for which you have submitted (dev/eval + test).
-    
-    ![image](https://user-images.githubusercontent.com/6783945/112109838-149d9300-8bd8-11eb-974a-8882f041d7ee.png)
+      * Account name should be visible on the top right.     
+    <img src="https://user-images.githubusercontent.com/6783945/112110398-d5bc0d00-8bd8-11eb-88b9-dbfadcce3f87.png" alt="alt text" width="50%">
 
 1. A **PRIVATE** GitHub repo for the submitted code. *Codes will be checked for plagiarism.*
     * Repo Name Format: `CS60075-Team-X-Task-Y`
