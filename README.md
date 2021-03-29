@@ -30,6 +30,7 @@
     * Approach / Model Architectures
     * Experiments
     * Results / Discussions
+    * References: Unlimited references can be added. You should cite to any model/library that you are using from any existing paper.
     * Screenshots of codalab submission page (Participate Tab -> Submit-View Results). Include all phases for which you have submitted (dev/eval + test).
       * Account name should be visible on the top right.     
     <img src="https://user-images.githubusercontent.com/6783945/112110398-d5bc0d00-8bd8-11eb-88b9-dbfadcce3f87.png" alt="alt text" width="50%">
