@@ -20,7 +20,7 @@
 
 ## Deliverables
 
-1. A project report of 3-5 page (*NO MORE THAN 5 PAGES ALLOWED*) with following sections in the same order. Use either latex or docx format from ACL.     
+1. A project report of 3-5 page (***NO MORE THAN 5 PAGES ALLOWED, including References***) with following sections in the same order. Use either latex or docx format from ACL.     
     * **Templates**: Docx and Latex templates can be downloaded [here](http://acl2020.org/downloads/acl2020-templates.zip). You can edit using [latex template on overleaf](https://www.overleaf.com/latex/templates/acl-2020-proceedings-template/zsrkcwjptpcd) also.
     * Title
     * Subtask ID + Group Details (Names, Roll Numbers, Group Name)
@@ -30,7 +30,7 @@
     * Approach / Model Architectures
     * Experiments
     * Results / Discussions
-    * References: Unlimited references can be added. You should cite to any model/library that you are using from any existing paper.
+    * References: Upto 1 page of references can be added. You should cite to any model/library that you are using from any existing paper.
     * Screenshots of codalab submission page (Participate Tab -> Submit-View Results). Include all phases for which you have submitted (dev/eval + test).
       * Account name should be visible on the top right.     
     <img src="https://user-images.githubusercontent.com/6783945/112110398-d5bc0d00-8bd8-11eb-88b9-dbfadcce3f87.png" alt="alt text" width="50%">
