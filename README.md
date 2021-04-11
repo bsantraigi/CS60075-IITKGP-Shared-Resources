@@ -38,7 +38,7 @@
 1. A **PRIVATE** GitHub repo for the submitted code. *Codes will be checked for plagiarism.*
     * Repo Name Format: `CS60075-Team-X-Task-Y`
     * Example: `CS60075-Team-3-Task-11`
-    * Add the common TA account as colaborator. *[how-to](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository)*
+    * Add the common TA account (@iitkgp-nlp-pg) as colaborator. *[how-to](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository)*
 1. A brief presentation video of upto 15 mins explaining the task, approach and results.
 
 ## Useful Resources for the Tasks
