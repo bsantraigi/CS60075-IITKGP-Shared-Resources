@@ -1,4 +1,4 @@
-# CS60075(Spring 2021) Shared Tasks
+# CS60075 Shared Resources
 
 ## Tutorials given in Course
 
