@@ -7,13 +7,6 @@
 3. [**Notebook for Bias in word-embeddings:**](https://colab.research.google.com/drive/11PyFecG4gaWBrP1FB6nHUROktwUSUCbI?usp=sharing#scrollTo=SkOPpPRMEp1M)
 4. [**Pytorch Tutorial**](https://colab.research.google.com/drive/10ejOXFuD8IBfGHmoydIfc4OMqzivCiAT?usp=sharing)
 
-## Important Points to Consider:
-
-* **Ideal team size**: 4-5 members
-* [SemEval 2021 **Task 1**](https://sites.google.com/view/lcpsharedtask2021): Cannot be taken by teams of size 6.
-* [SemEval 2021 **Task 8**](https://competitions.codalab.org/competitions/25770): Subtasks 1 and 3 (if team size <= 5), Subtasks 1, 3 and 5 (if team size is 6)
-* [SemEval 2021 **Task 11**](https://ncg-task.github.io/): Subtasks 1 and 2 (if team size <= 5), Subtasks 1, 2 and 3 (if team size is 6)
-
 
 
 ## Useful Resources for the Tasks
