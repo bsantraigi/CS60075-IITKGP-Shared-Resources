@@ -45,7 +45,9 @@ Templates: Docx and Latex templates can be downloaded here. You can edit using l
 ## Task Description, Baseline model and where to start
 ### Multilingual Question Answering (MQA)
 https://github.com/facebookresearch/MLQA 
+
 https://github.com/google-research-datasets/tydiqa
+
 Task is : Giving an answer from a passage based on the question.
 * During training you can use more than one language data. 
 * Use Multingual pre-trained language model
@@ -54,6 +56,47 @@ Task is : Giving an answer from a passage based on the question.
 Students are requested to implement the base models using [mBERT](https://huggingface.co/bert-base-multilingual-cased) and [XLM](https://huggingface.co/xlm-roberta-base) models of the [tydi-QA](https://github.com/google-research-datasets/tydiqa) gold passage dataset. Please find the below points to train the multilingual model. You can use this [code](https://github.com/huggingface/transformers/tree/master/examples/pytorch/question-answering).
 1. Train your model using the Tydi-QA gold passage train dataset(which contains 9 languages) and evaluate the Tydia-QA dataset dev data (only Hindi and Bengali)
 2. Extract English, Hindi, and Bengali from the Tydi-QA gold passage train dataset to train the base models, and evaluate the Tydia-QA dataset dev data (only Hindi and Bengali). 
+
+### SemEval-2022 Task 11: Multilingual Complex Name Entity Recognition: 
+https://multiconer.github.io/
+
+Task is: Detecting semantically ambiguous and complex short and low-complex setting. 
+* Language : [English, Spanish, Dutch, Chinese, Russian, Turkish, Korean, Parsi, German, Hindi, and Bengali]
+* Members: 4-5 members
+
+Find the XLM based baseline Model [link](https://github.com/amzn/multiconer-baseline). Please perform multilingual training on these dataset. Number of training data will be more than one for multilingual training.
+
+### XNLI The Cross-Lingual NLI Corpus:
+https://github.com/facebookresearch/XNLI
+
+AI4Bharat Winograd Natural Language Inference
+* The Cross-lingual Natural Language Inference (XNLI) corpus is a crowd-sourced collection of 5,000 test and 2,500 dev pairs for the MultiNLI corpus. 
+* 14 languages: French, Spanish, German, Greek, Bulgarian, Russian, Turkish, Arabic, Vietnamese, Thai, Chinese, Hindi, Swahili and Urdu. 
+* This results in 112.5k annotated pairs.
+* Members: 3-4 members
+
+Please train the base model  [mBERT](https://huggingface.co/bert-base-multilingual-cased) and [XLM](https://huggingface.co/xlm-roberta-base) using English data, then evaluate the model low-resource dev dataset. You can consider the task as a classification task. You can find the code [here](https://github.com/huggingface/transformers/tree/master/examples/pytorch/text-classification).
+
+### IndicNLP News Article Classification:
+https://github.com/AI4Bharat/indicnlp_corpus#indian-news-article-classification-dataset
+
+Task: Tag a particular news article headline with their news category. Max 4 categories, Min 2 categories
+* 7 languages: [Bengali, Kannada, Malayalam, Marathi, Oriya, Tamil, Telugu]
+* Members: 3-4 members
+
+Use [mBERT](https://huggingface.co/bert-base-multilingual-cased) and [XLM](https://huggingface.co/xlm-roberta-base) models for baseline, you can find the code [here](https://github.com/huggingface/transformers/tree/master/examples/pytorch/text-classification).  
+
+### SemEval 2022 Task 8: Multilingual News Article Similarity
+https://competitions.codalab.org/competitions/33835
+
+Task: Given a pair of news articles, are they covering the same news story?
+* Document-level similarity task, aim is to rate articles pairwise on a 4-point scale from most to least similar.
+* Languages: [English, Spanish, German, Polish, Turkish, Arabic, French]
+* Data:  4,964 pairs of news articles from above mentioned languages. Contains cross-lingual pairs and additional monolingual data.
+* Members: 4-5 members
+
+Use [mBERT](https://huggingface.co/bert-base-multilingual-cased) and [XLM](https://huggingface.co/xlm-roberta-base) models for baseline, you can find the code [here](https://github.com/huggingface/transformers/tree/master/examples/pytorch/text-classification).  For multilingual training, you can use more than one language. 
+
 
 <!-- * Information Extraction: OpenIE
    * https://demo.allennlp.org/open-information-extraction/open-information-extraction
