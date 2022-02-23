@@ -143,6 +143,19 @@ If you are unfamiliar with the most common concepts of NLP and ML, you can start
 
 ### General Resource
 
+#### Some tutorial and important links
+
+1. [BERT Explained: A Complete guide with Theory and Tutorial](https://medium.com/@samia.khalid/bert-explained-a-complete-guide-with-theory-and-tutorial-3ac9ebc8fa7c)
+2. [BERT and Transformer](https://jonathan-hui.medium.com/nlp-bert-transformer-7f0ac397f524)
+3. [BERT original paper](https://arxiv.org/pdf/1810.04805.pdf)
+4. [XLM-R official paper](https://arxiv.org/pdf/1911.02116.pdf)
+5. [Huggingface documentation](https://huggingface.co/transformers/v3.0.2/model_doc/xlmroberta.html) (XLM-R)
+
+1. [Sentiment Analysis using roberta](https://github.com/DhavalTaunk08/NLP_scripts/blob/master/sentiment_analysis_using_roberta.ipynb)
+2. [Token classification using a pre-trained model](https://github.com/huggingface/notebooks/blob/master/examples/token_classification-tf.ipynb)
+3. [Question Answering using a pre-trained model](https://github.com/huggingface/notebooks/blob/master/examples/question_answering-tf.ipynb)
+
+
 #### Basic Materials
 
 **ML for NLP Tutorials:**
