@@ -1,5 +1,47 @@
 # CS60075 Shared Resources
 
+## Deadlines
+
+> 10th March
+
+### Deliverables:
+Delivery of baseline model results, and next steps to be taken.
+Submission:
+1. A 2 page proposal (2 page of content, extra references) which details the following. Use either latex or docx format from ACL.
+    * Templates: Docx and Latex templates can be downloaded here. You can edit using latex template on overleaf also.
+    * Title
+    * Subtask ID + Group Details (Names, Roll Numbers, Group Name)
+    * Individual Contributions of Students (Must be explicitly mentioned for each student)
+    * Task Description
+    * Baseline Approaches
+    * Next steps
+    * Results of baselines
+    * References: Upto 1 page of references can be added. You should cite to any model/library that you are using from any existing paper.
+
+> 20th March
+
+### Deliverables:
+Discussion of steps taken since last deliverable. 1 page ad-on results from previous steps. Discussion of progress.
+
+> 6th April
+
+### Deliverables:
+1. A 3-5 page report (NO MORE THAN 5 PAGES ALLOWED, including References) with following sections in the same order. Use either latex or docx format from ACL.
+Templates: Docx and Latex templates can be downloaded here. You can edit using latex template on overleaf also.
+    * Title
+    * Subtask ID + Group Details (Names, Roll Numbers, Group Name)
+    * Group ID
+    * Codalab Team ID, if different from Group ID
+    * Individual Contributions of Students (Must be explicitly mentioned for each student)
+    * Task Description
+    * Approach / Model Architectures
+    * Metrics used
+    * Experiments
+    * Results / Discussions
+    * Difficulty faced / Path not taken
+    * References: Upto 1 page of references can be added. You should cite to any model/library that you are using from any existing paper.
+    * Screenshots of codalab submission page (Participate Tab -> Submit-View Results) or the leaderboard submission page. Include all phases for which you have submitted (dev/eval + test). Account name should be visible on the top right.
+
 ## Tutorials given in Course
 
 1. [**NLTK Tutorial**](https://colab.research.google.com/drive/1OMMp7vGMhqDbkJMMefrX22yenL0tom_0?usp=sharing)
