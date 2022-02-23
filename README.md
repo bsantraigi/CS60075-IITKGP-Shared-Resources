@@ -42,35 +42,7 @@ Templates: Docx and Latex templates can be downloaded here. You can edit using l
     * References: Upto 1 page of references can be added. You should cite to any model/library that you are using from any existing paper.
     * Screenshots of codalab submission page (Participate Tab -> Submit-View Results) or the leaderboard submission page. Include all phases for which you have submitted (dev/eval + test). Account name should be visible on the top right.
 
-## Tutorials given in Course
-
-1. [**NLTK Tutorial**](https://colab.research.google.com/drive/1OMMp7vGMhqDbkJMMefrX22yenL0tom_0?usp=sharing)
-2. [**Notebook for Word-embeddings analogy:**](https://colab.research.google.com/drive/1DxC5AnIFuu9Maan_D23yoE6sW4Ez2Uhw?usp=sharing#scrollTo=yr64uvq1E3E-)
-3. [**Notebook for Bias in word-embeddings:**](https://colab.research.google.com/drive/11PyFecG4gaWBrP1FB6nHUROktwUSUCbI?usp=sharing#scrollTo=SkOPpPRMEp1M)
-4. [**Pytorch Tutorial**](https://colab.research.google.com/drive/10ejOXFuD8IBfGHmoydIfc4OMqzivCiAT?usp=sharing)
-
-
-
-## Useful Resources for the Tasks
-
-### Where to look? (Keywords, Concepts, Packages)
-
-If you are unfamiliar with the most common concepts of NLP and ML, you can start searching for the following concepts. These are list of keywords without any specific structure.
-
-1. Word Embeddings: Word2Vec, Glove, Gensim, Spacy
-2. Contextual Word Embeddings (works better than simple word embeddings): BERT, ELMo, Huggingface, AllenNLP
-3. Metric Calculation: scikit-learn package
-4. Classifiers: tf-idf classifier, bag-of-words, Naive Bayes, Classification using BERT
-5. Text Generation: Sequence-to-Sequence, GPT-2, BART
-6. Multilingual models: mBERT, MuRIL, XLM
-7. Best tutorial websites: TowardsDataScience, Medium, Huggingface Documentation
-
-### Free coding platforms for ML
-
-1. Kaggle Notebooks
-1. Google Colab
-
-## Baseline model and where to start
+## Task Description, Baseline model and where to start
 ### Multilingual Question Answering (MQA)
 https://github.com/facebookresearch/MLQA 
 https://github.com/google-research-datasets/tydiqa
@@ -98,6 +70,33 @@ Students are requested to implement the base models using [mBERT](https://huggin
 * Marks will be allotted based on ranking on the leaderboard, innovative ideas, and understanding of tasks and models involved. While the leaderboard will be present and you are encouraged to view it as a competition, final marks will not depend only on your ranking. We will also evaluate the efforts and the approach the team has made.
 * For each task there would be a separate leaderboard.
 * For a task, no more than 5 teams can join.
+
+## Tutorials given in Course
+
+1. [**NLTK Tutorial**](https://colab.research.google.com/drive/1OMMp7vGMhqDbkJMMefrX22yenL0tom_0?usp=sharing)
+2. [**Notebook for Word-embeddings analogy:**](https://colab.research.google.com/drive/1DxC5AnIFuu9Maan_D23yoE6sW4Ez2Uhw?usp=sharing#scrollTo=yr64uvq1E3E-)
+3. [**Notebook for Bias in word-embeddings:**](https://colab.research.google.com/drive/11PyFecG4gaWBrP1FB6nHUROktwUSUCbI?usp=sharing#scrollTo=SkOPpPRMEp1M)
+4. [**Pytorch Tutorial**](https://colab.research.google.com/drive/10ejOXFuD8IBfGHmoydIfc4OMqzivCiAT?usp=sharing)
+
+## Useful Resources for the Tasks
+
+### Where to look? (Keywords, Concepts, Packages)
+
+If you are unfamiliar with the most common concepts of NLP and ML, you can start searching for the following concepts. These are list of keywords without any specific structure.
+
+1. Word Embeddings: Word2Vec, Glove, Gensim, Spacy
+2. Contextual Word Embeddings (works better than simple word embeddings): BERT, ELMo, Huggingface, AllenNLP
+3. Metric Calculation: scikit-learn package
+4. Classifiers: tf-idf classifier, bag-of-words, Naive Bayes, Classification using BERT
+5. Text Generation: Sequence-to-Sequence, GPT-2, BART
+6. Multilingual models: mBERT, MuRIL, XLM
+7. Best tutorial websites: TowardsDataScience, Medium, Huggingface Documentation
+
+### Free coding platforms for ML
+
+1. Kaggle Notebooks
+1. Google Colab
+
 
 ### General Resource
 
