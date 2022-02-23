@@ -60,23 +60,44 @@ If you are unfamiliar with the most common concepts of NLP and ML, you can start
 1. Word Embeddings: Word2Vec, Glove, Gensim, Spacy
 2. Contextual Word Embeddings (works better than simple word embeddings): BERT, ELMo, Huggingface, AllenNLP
 3. Metric Calculation: scikit-learn package
-1. Classifiers: tf-idf classifier, bag-of-words, Naive Bayes, Classification using BERT
-1. Text Generation: Sequence-to-Sequence, GPT-2, BART
-1. Best tutorial websites: TowardsDataScience, Medium, Huggingface Documentation
+4. Classifiers: tf-idf classifier, bag-of-words, Naive Bayes, Classification using BERT
+5. Text Generation: Sequence-to-Sequence, GPT-2, BART
+6. Multilingual models: mBERT, MuRIL, XLM
+7. Best tutorial websites: TowardsDataScience, Medium, Huggingface Documentation
 
 ### Free coding platforms for ML
 
 1. Kaggle Notebooks
 1. Google Colab
 
-### Task 11 (Papers, Tutorials, etc.)
+## Baseline model and where to start
+### Multilingual Question Answering (MQA)
+https://github.com/facebookresearch/MLQA 
+https://github.com/google-research-datasets/tydiqa
+Task is : Giving an answer from a passage based on the question.
+* During training you can use more than one language data. 
+* Use Multingual pre-trained language model
+* Members: 3-4 members
 
-* Information Extraction: OpenIE
+Students are requested to implement the base models using [mBERT](https://huggingface.co/bert-base-multilingual-cased) and [XLM](https://huggingface.co/xlm-roberta-base) models of the [tydi-QA](https://github.com/google-research-datasets/tydiqa) gold passage dataset. Please find the below points to train the multilingual model. You can use this [code](https://github.com/huggingface/transformers/tree/master/examples/pytorch/question-answering).
+1. Train your model using the Tydi-QA gold passage train dataset(which contains 9 languages) and evaluate the Tydia-QA dataset dev data (only Hindi and Bengali)
+2. Extract English, Hindi, and Bengali from the Tydi-QA gold passage train dataset to train the base models, and evaluate the Tydia-QA dataset dev data (only Hindi and Bengali). 
+
+<!-- * Information Extraction: OpenIE
    * https://demo.allennlp.org/open-information-extraction/open-information-extraction
    * https://github.com/dair-iitd/OpenIE-standalone
 * Entity Extraction: 
    * https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da
    * https://www.nltk.org/book/ch07.html
+ -->
+
+## Rules of the Shared Task
+* All solutions should be self-coded, plagiarism is strictly prohibited and strict action will be taken against the entire team found plagiarizing. Solutions from any current repository, any blog or any source on the internet is included in this.
+* While your solution is not expected to be the best, we want to see the unique solutions you create in terms of features used, improvements made, extensive result analysis etc. 
+* Regular discussions with a TA or PG sir are expected and encouraged. There would be bonus marks for this.
+* Marks will be allotted based on ranking on the leaderboard, innovative ideas, and understanding of tasks and models involved. While the leaderboard will be present and you are encouraged to view it as a competition, final marks will not depend only on your ranking. We will also evaluate the efforts and the approach the team has made.
+* For each task there would be a separate leaderboard.
+* For a task, no more than 5 teams can join.
 
 ### General Resource
 
