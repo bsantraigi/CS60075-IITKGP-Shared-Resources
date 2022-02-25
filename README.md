@@ -160,7 +160,7 @@ If you are unfamiliar with the most common concepts of NLP and ML, you can start
 3. [Question Answering using a pre-trained model](https://github.com/huggingface/notebooks/blob/master/examples/question_answering-tf.ipynb)
 
 
-#### Other Resources
+### Other Resources
 
 **ML for NLP Tutorials:**
 
