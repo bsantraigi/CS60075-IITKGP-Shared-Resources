@@ -97,6 +97,9 @@ Task: Given a pair of news articles, are they covering the same news story?
 
 Use [mBERT](https://huggingface.co/bert-base-multilingual-cased) and [XLM](https://huggingface.co/xlm-roberta-base) models for baseline, you can find the code [here](https://github.com/huggingface/transformers/tree/master/examples/pytorch/text-classification).  For multilingual training, you can use more than one language. 
 
+### SemEval-2022 Shared Task 10: Structured Sentiment Analysis
+Please refer to the official [github](https://github.com/jerbarnes/semeval22_structured_sentiment) repository for useful resources. Two baselines: [graph-parsing](https://github.com/jerbarnes/semeval22_structured_sentiment/tree/master/baselines/graph_parser) based and [sequence-labeling](https://github.com/jerbarnes/semeval22_structured_sentiment/tree/master/baselines/sequence_labeling) based are included in the repository.
+
 
 <!-- * Information Extraction: OpenIE
    * https://demo.allennlp.org/open-information-extraction/open-information-extraction
