@@ -2,7 +2,7 @@
 
 ## Deadlines
 
-> 13th March
+> First Deadline: 13th March
 
 ### Deliverables:
 Delivery of baseline model results, and next steps to be taken.
@@ -18,12 +18,14 @@ Submission:
     * Results of baselines
     * References: Upto 1 page of references can be added. You should cite to any model/library that you are using from any existing paper.
 
-> 21st March - 27th March
+
+> Second Deadline: 21st March - 27th March
 
 ### Deliverables:
 A slot of 30 mins to be chosen within these dates with the TA. Discussion of steps taken since last deliverable. 1 page ad-on results from previous steps. Discussion of progress.
 
-> 6th April
+
+> Final Deadline: 6th April
 
 ### Deliverables:
 1. A 3-5 page report (NO MORE THAN 5 PAGES ALLOWED, including References) with following sections in the same order. Use either latex or docx format from ACL.
@@ -41,6 +43,7 @@ Templates: Docx and Latex templates can be downloaded here. You can edit using l
     * Difficulty faced / Path not taken
     * References: Upto 1 page of references can be added. You should cite to any model/library that you are using from any existing paper.
     * Screenshots of codalab submission page (Participate Tab -> Submit-View Results) or the leaderboard submission page. Include all phases for which you have submitted (dev/eval + test). Account name should be visible on the top right.
+
 
 ## Task Description, Baseline model and where to start
 ### Multilingual Question Answering (MQA)
@@ -117,7 +120,7 @@ Please refer to the official [github](https://github.com/jerbarnes/semeval22_str
 * For each task there would be a separate leaderboard.
 * For a task, no more than 5 teams can join.
 
-## Tutorials given in Course
+## Tutorials Given in the Course
 
 1. [**NLTK Tutorial**](https://colab.research.google.com/drive/1OMMp7vGMhqDbkJMMefrX22yenL0tom_0?usp=sharing)
 2. [**Notebook for Word-embeddings analogy:**](https://colab.research.google.com/drive/1DxC5AnIFuu9Maan_D23yoE6sW4Ez2Uhw?usp=sharing#scrollTo=yr64uvq1E3E-)
@@ -126,7 +129,7 @@ Please refer to the official [github](https://github.com/jerbarnes/semeval22_str
 
 ## Useful Resources for the Tasks
 
-### Where to look? (Keywords, Concepts, Packages)
+### Where to Look? (Keywords, Concepts, Packages)
 
 If you are unfamiliar with the most common concepts of NLP and ML, you can start searching for the following concepts. These are list of keywords without any specific structure.
 
@@ -138,15 +141,13 @@ If you are unfamiliar with the most common concepts of NLP and ML, you can start
 6. Multilingual models: mBERT, MuRIL, XLM
 7. Best tutorial websites: TowardsDataScience, Medium, Huggingface Documentation
 
-### Free coding platforms for ML
+### Free Coding Platforms for ML
 
 1. Kaggle Notebooks
 1. Google Colab
 
 
-### General Resource
-
-#### Some tutorial and important links
+### Some Tutorials and Important Links
 
 1. [BERT Explained: A Complete guide with Theory and Tutorial](https://medium.com/@samia.khalid/bert-explained-a-complete-guide-with-theory-and-tutorial-3ac9ebc8fa7c)
 2. [BERT and Transformer](https://jonathan-hui.medium.com/nlp-bert-transformer-7f0ac397f524)
@@ -159,7 +160,7 @@ If you are unfamiliar with the most common concepts of NLP and ML, you can start
 3. [Question Answering using a pre-trained model](https://github.com/huggingface/notebooks/blob/master/examples/question_answering-tf.ipynb)
 
 
-#### Basic Materials
+#### Other Resources
 
 **ML for NLP Tutorials:**
 
@@ -172,7 +173,7 @@ If you are unfamiliar with the most common concepts of NLP and ML, you can start
 8. [Text Classification using Naive Bayes Method](https://bsantraigi.github.io/2019/07/13/text-classification-using-naive-bayes-method.html)
 9. [Training a Language Model with a Xtra-Small Transformer (Transformer-XS)](https://bsantraigi.github.io/tutorial/2019/07/08/training-xtra-small-transformer-language-model.html)
 
-#### Great Seq2Seq Tutorials
+#### Seq2Seq Tutorials
 
 1. [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
  It talks about the paper [[1706.03762] Attention Is All You Need](https://arxiv.org/abs/1706.03762). This presents a **Sequence to Sequence** architecture for **Neural Machine Translation**
