@@ -2,7 +2,7 @@
 
 ## Deadlines
 
-> 10th March
+> 13th March
 
 ### Deliverables:
 Delivery of baseline model results, and next steps to be taken.
@@ -18,10 +18,10 @@ Submission:
     * Results of baselines
     * References: Upto 1 page of references can be added. You should cite to any model/library that you are using from any existing paper.
 
-> 20th March
+> 21st March - 27th March
 
 ### Deliverables:
-Discussion of steps taken since last deliverable. 1 page ad-on results from previous steps. Discussion of progress.
+A slot of 30 mins to be chosen within these dates with the TA. Discussion of steps taken since last deliverable. 1 page ad-on results from previous steps. Discussion of progress.
 
 > 6th April
 
