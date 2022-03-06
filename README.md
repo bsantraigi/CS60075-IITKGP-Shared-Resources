@@ -57,8 +57,8 @@ Task is : Giving an answer from a passage based on the question.
 * Members: 3-4 members
 
 Students are requested to implement the base models using [mBERT](https://huggingface.co/bert-base-multilingual-cased) and [XLM](https://huggingface.co/xlm-roberta-base) models of the [tydi-QA](https://github.com/google-research-datasets/tydiqa) gold passage dataset. Please find the below points to train the multilingual model. You can use this [code](https://github.com/huggingface/transformers/tree/master/examples/pytorch/question-answering).
-1. Train your model using the Tydi-QA gold passage train dataset(which contains 9 languages) and evaluate the Tydia-QA dataset dev data (only Hindi and Bengali)
-2. Extract English, Hindi, and Bengali from the Tydi-QA gold passage train dataset to train the base models, and evaluate the Tydia-QA dataset dev data (only Hindi and Bengali). 
+1. Train your model using the Tydi-QA gold passage train dataset(which contains 9 languages) and evaluate the Tydia-QA dataset dev data (only Telugu and Bengali)
+2. Extract English, Telugu, and Bengali from the Tydi-QA gold passage train dataset to train the base models, and evaluate the Tydia-QA dataset dev data (only Telugu and Bengali). 
 
 ### SemEval-2022 Task 11: Multilingual Complex Name Entity Recognition: 
 https://multiconer.github.io/
