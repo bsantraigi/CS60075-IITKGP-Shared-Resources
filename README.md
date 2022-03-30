@@ -28,7 +28,7 @@ A slot of 30 mins to be chosen within these dates with the TA. Discussion of ste
 > Final Deadline: 6th April
 
 ### Deliverables:
-1. A 3-5 page report (NO MORE THAN 5 PAGES ALLOWED, including References) with following sections in the same order. Use either latex or docx format from ACL.
+1. A 4-5 page report (NO MORE THAN 5 PAGES ALLOWED, including References) with following sections in the same order. Use either latex or docx format from ACL.
 Templates: Docx and Latex templates can be downloaded here. You can edit using latex template on overleaf also.
     * Title
     * Subtask ID + Group Details (Names, Roll Numbers, Group Name)
